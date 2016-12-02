@@ -1,0 +1,73 @@
+body,ul,li,h1,h2{
+	padding: 0;
+	margin: 0;
+	list-style:none;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	font-family: "微软雅黑";
+}
+.swiper-container {
+    width:100%;
+    height:100%;
+}
+.swiper-slide{
+	background:url(../img/bg.jpg);
+	background-size:100% 100%;
+}
+
+.title h1{
+	font-size:0.6rem;
+	color:#EB764D;
+	width:100%;
+	margin: 0 auto;
+	margin-top:0.8rem;
+	letter-spacing:0.03rem;
+	text-align: center;
+}
+.title h2{
+	font-size:0.5rem;
+	width:100%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top:0.35rem;
+	color:#8B898C;
+}
+.word{
+	width:100%;
+	height: 4.45rem;
+	background:url(../img/title1.png) no-repeat;
+	background-size:100% 100%;
+	position:absolute;
+	left:0;
+	top:4rem;
+}
+.phone1{
+	width:100%;
+	height: 100%;
+	position:absolute;
+	top:0.2rem;
+	left:0;
+	background: url(../img/phone1.png) no-repeat;
+	background-size:100% 100%;
+}
+.phone2{
+	width:100%;
+	height: 100%;
+	position:absolute;
+	top:0.2rem;
+	left:0;
+	background: url(../img/phone2.png) no-repeat;
+	background-size:100% 100%;
+}
+.phone3{
+	width:100%;
+	height: 100%;
+	position:absolute;
+	top:0.2rem;
+	left:0;
+	background: url(../img/phone3.png) no-repeat;
+	background-size:100% 100%;
+}
+
